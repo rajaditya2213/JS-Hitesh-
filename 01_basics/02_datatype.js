@@ -10,7 +10,7 @@ console.log("Hello Aditya")
 let name="Aditya"
 let age=20
 let isloggedIn=false
-let state
+let state 
 
 
 /* primtive datatype */
